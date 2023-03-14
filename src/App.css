@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+h1
+{
+  color: #5eff00;
+}
+
+button{
+  padding: 15px 25px;
+  background: #9b59b6;
+  color:white;
+  border:2px solid #e4e8e2;
+  outline: none;
+  border-radius: 7px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.R{
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.O{
+  color:hsl(255, 96%, 29%);
+  padding: 10px;
+}
+input{
+  font-size: 20px;
+  padding: 10PX;
+  text-align: center;
+  color: rgb(228, 9, 9);
+}
