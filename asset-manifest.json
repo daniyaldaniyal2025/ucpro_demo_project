@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/daniyaldaniyal2025/ucpro-demo.git/static/css/main.5b88f11a.css",
+    "main.js": "/daniyaldaniyal2025/ucpro-demo.git/static/js/main.5651c72c.js",
+    "static/js/787.88e0d3ad.chunk.js": "/daniyaldaniyal2025/ucpro-demo.git/static/js/787.88e0d3ad.chunk.js",
+    "static/media/logo.svg": "/daniyaldaniyal2025/ucpro-demo.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/daniyaldaniyal2025/ucpro-demo.git/index.html",
+    "main.5b88f11a.css.map": "/daniyaldaniyal2025/ucpro-demo.git/static/css/main.5b88f11a.css.map",
+    "main.5651c72c.js.map": "/daniyaldaniyal2025/ucpro-demo.git/static/js/main.5651c72c.js.map",
+    "787.88e0d3ad.chunk.js.map": "/daniyaldaniyal2025/ucpro-demo.git/static/js/787.88e0d3ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b88f11a.css",
+    "static/js/main.5651c72c.js"
+  ]
+}
